@@ -1,0 +1,19 @@
+{
+  "name": "gregale-dev",
+  "owner": {
+    "name": "Gregale",
+    "url": "https://gregale.dev"
+  },
+  "metadata": {
+    "description": "Official Gregale plugin for deploying, diagnosing and rolling back backend apps and Postgres from Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "gregale",
+      "source": "./",
+      "description": "Deploy, diagnose and roll back APIs, background jobs and Postgres on Gregale through Gregale's hosted MCP server.",
+      "version": "1.0.0",
+      "category": "deployment"
+    }
+  ]
+}

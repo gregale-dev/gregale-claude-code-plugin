@@ -1,0 +1,23 @@
+{
+  "name": "gregale",
+  "version": "1.0.0",
+  "description": "Deploy, diagnose and roll back APIs, background jobs and Postgres on Gregale from Claude Code, through Gregale's hosted MCP server.",
+  "author": {
+    "name": "Gregale",
+    "url": "https://gregale.dev"
+  },
+  "homepage": "https://gregale.dev/docs/agents",
+  "repository": "https://github.com/gregale-dev/gregale-claude-code-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "gregale",
+    "deploy",
+    "hosting",
+    "serverless",
+    "postgres",
+    "mcp",
+    "rollback",
+    "firecracker"
+  ],
+  "mcpServers": "./.mcp.json"
+}
