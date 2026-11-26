@@ -9,6 +9,7 @@
   "homepage": "https://gregale.dev/docs/agents",
   "repository": "https://github.com/gregale-dev/gregale-claude-code-plugin",
   "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://gregale.dev/privacy",
   "keywords": [
     "gregale",
     "deploy",
