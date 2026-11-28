@@ -27,6 +27,13 @@ claude mcp add --transport http gregale https://api.gregale.dev/mcp
 The skills can also deploy with the `gregale` CLI; install it and log in (or set
 `GREGALE_TOKEN`): https://gregale.dev/docs/install
 
+## Guides
+
+On [gregale.dev](https://gregale.dev):
+
+- [Let Claude Code deploy to production safely](https://gregale.dev/articles/claude-code-deploy-production-safely)
+- [Human approval before an AI agent changes production](https://gregale.dev/articles/ai-agent-production-approval)
+
 ## Links
 
 - [Gregale agent guide](https://gregale.dev/docs/agents)
